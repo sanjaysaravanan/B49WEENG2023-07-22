@@ -33,8 +33,7 @@ Topics:
     self:
       <img />
       <link />
-      <br />
-      <hr />
+      
 
     Basic Tags
       Head
@@ -73,11 +72,15 @@ Next Session:
 
   inline vs block elements
     div vs span
+  <br />
+  <hr />
   table
   list
   HTML Forms
     Input elements and attributes
     Form submit
+
+  CSS
 
 Tasks:
 
