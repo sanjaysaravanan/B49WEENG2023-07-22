@@ -1,0 +1,84 @@
+
+Recap:
+
+  Array Methods
+
+Topics:
+
+  find:
+
+  findLast:
+
+  findIndex:
+
+  findLastIndex:
+
+  forEach:
+    only to iterate and do something
+    returns undefined
+
+  map:
+    this is to iterate and create a new array of from the old array on which map is applied
+    map returns array of returns of the callback on each iteration
+    
+    map vs forEach
+
+  Reduce:
+    Calls the specified callback function for all the elements in an array. The return value of the callback function is the accumulated result, and is provided as an argument in the next call to the callback function.
+
+  HTML:
+    What is HTML & Why to use?
+
+    !DOCTYPE
+    self:
+      <img />
+      <link />
+      <br />
+      <hr />
+
+    Basic Tags
+      Head
+        1. Title
+        2. Link ( icon, css )
+          attributes/properties:
+            rel, href
+        3. Meta:
+          Meta tags are used by the internet to fetch data about the website ( information aboeu the website)
+        4. Script
+      Body
+        div - container which will take the entire width of the parent container
+        p - paragraph
+        h1...6 - heading
+        a - anchor to other website
+        span - simple container
+        mark - highlight the content
+        image - used to display local or external images
+    
+    attributes - properties that is passed in the opening tags
+
+    HTML vs HTML5
+      HTML5 is the latest version of HTML and supports new markup language functionalities such as multimedia, new tags and elements as well as new APIs. HTML5 also supports audio and video.
+
+      audio & video:
+        soruce of the audio/video
+      
+      div vs section vs article
+    
+      Reference: 
+      1. https://medium.com/design-code-repository/html-elements-section-vs-div-vs-article-a8c34e6548cf
+      2. https://pbs.twimg.com/media/FAiIdwVUcAUgkKI.png
+  
+
+Next Session:
+
+  inline vs block elements
+    div vs span
+  table
+  list
+  HTML Forms
+    Input elements and attributes
+    Form submit
+
+Tasks:
+
+  1. Google about html forms and input tags
